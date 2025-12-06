@@ -1,0 +1,7 @@
+# robots.txt for study-group-webpage
+# Allow all crawlers to index the site
+User-agent: *
+Allow: /
+
+# Sitemap location (replace with your real URL)
+Sitemap: https://example.com/sitemap.xml

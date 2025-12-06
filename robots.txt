@@ -4,4 +4,4 @@ User-agent: *
 Allow: /
 
 # Sitemap location (replace with your real URL)
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://r3399r.github.io/alhena/sitemap.xml
